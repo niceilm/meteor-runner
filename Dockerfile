@@ -1,4 +1,4 @@
-FROM node:0.10.45-slim
+FROM node:4.4.7-slim
 
 MAINTAINER flynn <niceilm@naver.com>
 
